@@ -1,2 +1,2 @@
 # clone-tabnews
-Rep criado para acompanhamento do cursodev.
+Repo criado para acompanhamento do cursodev.
